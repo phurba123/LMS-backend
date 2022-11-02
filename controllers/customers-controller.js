@@ -3,6 +3,6 @@
 //     res.send('you are getting all customers');
 // }
 
-// module.exports = {
+// module.exports = { 
 //     getAllCustomers
 // }
